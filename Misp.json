@@ -4,12 +4,10 @@
     "version": 1,
     "predicates": [
         {
-            "value": "Poisonous plant",
-            "expanded": ""
+            "value": "Poisonous plant"
         },
         {
-            "value": "Poisonous fungus",
-            "expanded": ""
+            "value": "Poisonous fungus"
         }
     ],
     "values": [
@@ -17,1191 +15,895 @@
             "predicate": "Poisonous plant",
             "entry": [
                 {
-                    "value": "Allium/Onion",
-                    "expanded": ""
+                    "value": "Allium/Onion"
                 },
                 {
-                    "value": "Asparagus officinalis/Asparagus",
-                    "expanded": ""
+                    "value": "Asparagus officinalis/Asparagus"
                 },
                 {
-                    "value": "Citrus limon/Lemon",
-                    "expanded": ""
+                    "value": "Citrus limon/Lemon"
                 },
                 {
-                    "value": "Lathyrus sativus/Indian pea",
-                    "expanded": ""
+                    "value": "Lathyrus sativus/Indian pea"
                 },
                 {
-                    "value": "Malus domestica/Apple",
-                    "expanded": ""
+                    "value": "Malus domestica/Apple"
                 },
                 {
-                    "value": "Mangifera indica/Mango tree",
-                    "expanded": ""
+                    "value": "Mangifera indica/Mango tree"
                 },
                 {
-                    "value": "Manihot esculenta/Cassava",
-                    "expanded": ""
+                    "value": "Manihot esculenta/Cassava"
                 },
                 {
-                    "value": "Myristica fragrans/Nutmeg",
-                    "expanded": ""
+                    "value": "Myristica fragrans/Nutmeg"
                 },
                 {
-                    "value": "Phaseolus lunatus/Lima bean",
-                    "expanded": ""
+                    "value": "Phaseolus lunatus/Lima bean"
                 },
                 {
-                    "value": "Phaseolus vulgaris/Kidney bean",
-                    "expanded": ""
+                    "value": "Phaseolus vulgaris/Kidney bean"
                 },
                 {
-                    "value": "Prunus cerasus/Cherry",
-                    "expanded": ""
+                    "value": "Prunus cerasus/Cherry"
                 },
                 {
-                    "value": "Rheum rhaponticum/Rhubarb",
-                    "expanded": ""
+                    "value": "Rheum rhaponticum/Rhubarb"
                 },
                 {
-                    "value": "Solanum lycopersicum/Tomato",
-                    "expanded": ""
+                    "value": "Solanum lycopersicum/Tomato"
                 },
                 {
-                    "value": "Solanum tuberosum/Potato",
-                    "expanded": ""
+                    "value": "Solanum tuberosum/Potato"
                 },
                 {
-                    "value": "Vitis/Grape",
-                    "expanded": ""
+                    "value": "Vitis/Grape"
                 },
                 {
-                    "value": "Abrus precatorius/jumbie",
-                    "expanded": ""
+                    "value": "Abrus precatorius/jumbie"
                 },
                 {
-                    "value": "Aconitum/aconite",
-                    "expanded": ""
+                    "value": "Aconitum/aconite"
                 },
                 {
-                    "value": "Actaea pachypoda/doll's eyes",
-                    "expanded": ""
+                    "value": "Actaea pachypoda/doll's eyes"
                 },
                 {
-                    "value": "Adenium obesum/sabi star",
-                    "expanded": ""
+                    "value": "Adenium obesum/sabi star"
                 },
                 {
-                    "value": "Adonis vernalis/pheasant's eye",
-                    "expanded": ""
+                    "value": "Adonis vernalis/pheasant's eye"
                 },
                 {
-                    "value": "Aesculus hippocastanum/horse-chestnut",
-                    "expanded": ""
+                    "value": "Aesculus hippocastanum/horse-chestnut"
                 },
                 {
-                    "value": "Agave/century plant",
-                    "expanded": ""
+                    "value": "Agave/century plant"
                 },
                 {
-                    "value": "Ageratina altissima/white snakeroot",
-                    "expanded": ""
+                    "value": "Ageratina altissima/white snakeroot"
                 },
                 {
-                    "value": "Agrostemma githago/corn cockle",
-                    "expanded": ""
+                    "value": "Agrostemma githago/corn cockle"
                 },
                 {
-                    "value": "Anemone nemorosa/wood anemone",
-                    "expanded": ""
+                    "value": "Anemone nemorosa/wood anemone"
                 },
                 {
-                    "value": "Anthurium/anthurium",
-                    "expanded": ""
+                    "value": "Anthurium/anthurium"
                 },
                 {
-                    "value": "Aquilegia/columbine",
-                    "expanded": ""
+                    "value": "Aquilegia/columbine"
                 },
                 {
-                    "value": "Areca catechu/betel nut palm",
-                    "expanded": ""
+                    "value": "Areca catechu/betel nut palm"
                 },
                 {
-                    "value": "Argemone mexicana/Mexican poppy",
-                    "expanded": ""
+                    "value": "Argemone mexicana/Mexican poppy"
                 },
                 {
-                    "value": "Arnica montana/mountain arnica",
-                    "expanded": ""
+                    "value": "Arnica montana/mountain arnica"
                 },
                 {
-                    "value": "Arum maculatum/cuckoo-pint",
-                    "expanded": ""
+                    "value": "Arum maculatum/cuckoo-pint"
                 },
                 {
-                    "value": "Atropa belladonna/deadly nightshade",
-                    "expanded": ""
+                    "value": "Atropa belladonna/deadly nightshade"
                 },
                 {
-                    "value": "Brugmansia/angel's trumpet",
-                    "expanded": ""
+                    "value": "Brugmansia/angel's trumpet"
                 },
                 {
-                    "value": "Caladium/angel wings",
-                    "expanded": ""
+                    "value": "Caladium/angel wings"
                 },
                 {
-                    "value": "Calla palustris/marsh calla",
-                    "expanded": ""
+                    "value": "Calla palustris/marsh calla"
                 },
                 {
-                    "value": "Caltha palustris/marsh-marigold",
-                    "expanded": ""
+                    "value": "Caltha palustris/marsh-marigold"
                 },
                 {
-                    "value": "Cascabela thevetia/yellow oleander",
-                    "expanded": ""
+                    "value": "Cascabela thevetia/yellow oleander"
                 },
                 {
-                    "value": "Cephalanthus occidentalis/buttonbush",
-                    "expanded": ""
+                    "value": "Cephalanthus occidentalis/buttonbush"
                 },
                 {
-                    "value": "Cerbera odollam/suicide tree",
-                    "expanded": ""
+                    "value": "Cerbera odollam/suicide tree"
                 },
                 {
-                    "value": "Chelidonium majus/greater celandine",
-                    "expanded": ""
+                    "value": "Chelidonium majus/greater celandine"
                 },
                 {
-                    "value": "Cicuta/water hemlock",
-                    "expanded": ""
+                    "value": "Cicuta/water hemlock"
                 },
                 {
-                    "value": "Cleistanthus collinus",
-                    "expanded": ""
+                    "value": "Cleistanthus collinus"
                 },
                 {
-                    "value": "Clivia miniata/Natal lily",
-                    "expanded": ""
+                    "value": "Clivia miniata/Natal lily"
                 },
                 {
-                    "value": "Codiaeum variegatum/garden croton",
-                    "expanded": ""
+                    "value": "Codiaeum variegatum/garden croton"
                 },
                 {
-                    "value": "Colchicum autumnale/autumn crocus",
-                    "expanded": ""
+                    "value": "Colchicum autumnale/autumn crocus"
                 },
                 {
-                    "value": "Conium maculatum/hemlock",
-                    "expanded": ""
+                    "value": "Conium maculatum/hemlock"
                 },
                 {
-                    "value": "Consolida/larkspur",
-                    "expanded": ""
+                    "value": "Consolida/larkspur"
                 },
                 {
-                    "value": "Convallaria majalis/lily of the valley",
-                    "expanded": ""
+                    "value": "Convallaria majalis/lily of the valley"
                 },
                 {
-                    "value": "Coriaria myrtifolia/redoul",
-                    "expanded": ""
+                    "value": "Coriaria myrtifolia/redoul"
                 },
                 {
-                    "value": "Cytisus scoparius/broom",
-                    "expanded": ""
+                    "value": "Cytisus scoparius/broom"
                 },
                 {
-                    "value": "Daphne",
-                    "expanded": ""
+                    "value": "Daphne"
                 },
                 {
-                    "value": "Datura/jimson weed",
-                    "expanded": ""
+                    "value": "Datura/jimson weed"
                 },
                 {
-                    "value": "Daucus carota/wild carrot",
-                    "expanded": ""
+                    "value": "Daucus carota/wild carrot"
                 },
                 {
-                    "value": "Deathcamas/Melanthieae",
-                    "expanded": ""
+                    "value": "Deathcamas/Melanthieae"
                 },
                 {
-                    "value": "Delphinium/larkspur",
-                    "expanded": ""
+                    "value": "Delphinium/larkspur"
                 },
                 {
-                    "value": "Dendrocnide moroides/stinging tree",
-                    "expanded": ""
+                    "value": "Dendrocnide moroides/stinging tree"
                 },
                 {
-                    "value": "Dicentra cucullaria/bleeding heart",
-                    "expanded": ""
+                    "value": "Dicentra cucullaria/bleeding heart"
                 },
                 {
-                    "value": "Dichapetalum cymosum/gifblaar",
-                    "expanded": ""
+                    "value": "Dichapetalum cymosum/gifblaar"
                 },
                 {
-                    "value": "Dieffenbachia/dumbcane",
-                    "expanded": ""
+                    "value": "Dieffenbachia/dumbcane"
                 },
                 {
-                    "value": "Digitalis purpurea/foxglove",
-                    "expanded": ""
+                    "value": "Digitalis purpurea/foxglove"
                 },
                 {
-                    "value": "Dioscorea communis/black bryony",
-                    "expanded": ""
+                    "value": "Dioscorea communis/black bryony"
                 },
                 {
-                    "value": "Duranta erecta/golden dewdrop",
-                    "expanded": ""
+                    "value": "Duranta erecta/golden dewdrop"
                 },
                 {
-                    "value": "Erysimum cheiri/wallflower",
-                    "expanded": ""
+                    "value": "Erysimum cheiri/wallflower"
                 },
                 {
-                    "value": "Euonymus europaeus/spindle",
-                    "expanded": ""
+                    "value": "Euonymus europaeus/spindle"
                 },
                 {
-                    "value": "Euphorbia pulcherrima/poinsettia",
-                    "expanded": ""
+                    "value": "Euphorbia pulcherrima/poinsettia"
                 },
                 {
-                    "value": "Excoecaria agallocha/milky mangrove",
-                    "expanded": ""
+                    "value": "Excoecaria agallocha/milky mangrove"
                 },
                 {
-                    "value": "Galanthus nivalis/snowdrop",
-                    "expanded": ""
+                    "value": "Galanthus nivalis/snowdrop"
                 },
                 {
-                    "value": "Gelsemium sempervirens/yellow jessamine",
-                    "expanded": ""
+                    "value": "Gelsemium sempervirens/yellow jessamine"
                 },
                 {
-                    "value": "Gloriosa superba/flame lily",
-                    "expanded": ""
+                    "value": "Gloriosa superba/flame lily"
                 },
                 {
-                    "value": "Grevillea/silky oak",
-                    "expanded": ""
+                    "value": "Grevillea/silky oak"
                 },
                 {
-                    "value": "Hedera helix/common ivy",
-                    "expanded": ""
+                    "value": "Hedera helix/common ivy"
                 },
                 {
-                    "value": "Heliotropium indicum/Indian heliotrope",
-                    "expanded": ""
+                    "value": "Heliotropium indicum/Indian heliotrope"
                 },
                 {
-                    "value": "Helleborus niger/Christmas rose",
-                    "expanded": ""
+                    "value": "Helleborus niger/Christmas rose"
                 },
                 {
-                    "value": "Heracleum mantegazzianum/giant hogweed",
-                    "expanded": ""
+                    "value": "Heracleum mantegazzianum/giant hogweed"
                 },
                 {
-                    "value": "Heracleum sosnowskyi/Sosnowsky's Hogweed",
-                    "expanded": ""
+                    "value": "Heracleum sosnowskyi/Sosnowsky's Hogweed"
                 },
                 {
-                    "value": "Hippomane mancinella/manchineel",
-                    "expanded": ""
+                    "value": "Hippomane mancinella/manchineel"
                 },
                 {
-                    "value": "Hyacinthus orientalis/hyacinth",
-                    "expanded": ""
+                    "value": "Hyacinthus orientalis/hyacinth"
                 },
                 {
-                    "value": "Hydrangea/hydrangea",
-                    "expanded": ""
+                    "value": "Hydrangea/hydrangea"
                 },
                 {
-                    "value": "Hyoscyamus niger/henbane",
-                    "expanded": ""
+                    "value": "Hyoscyamus niger/henbane"
                 },
                 {
-                    "value": "Ilex aquifolium/European holly",
-                    "expanded": ""
+                    "value": "Ilex aquifolium/European holly"
                 },
                 {
-                    "value": "Iris sibirica/Siberian iris",
-                    "expanded": ""
+                    "value": "Iris sibirica/Siberian iris"
                 },
                 {
-                    "value": "Jacobaea vulgaris/ragwort",
-                    "expanded": ""
+                    "value": "Jacobaea vulgaris/ragwort"
                 },
                 {
-                    "value": "Kalanchoe delagoensis/mother of millions",
-                    "expanded": ""
+                    "value": "Kalanchoe delagoensis/mother of millions"
                 },
                 {
-                    "value": "Kalmia latifolia/mountain laurel",
-                    "expanded": ""
+                    "value": "Kalmia latifolia/mountain laurel"
                 },
                 {
-                    "value": "Laburnum/golden chain",
-                    "expanded": ""
+                    "value": "Laburnum/golden chain"
                 },
                 {
-                    "value": "Lamprocapnos spectabilis/bleeding heart",
-                    "expanded": ""
+                    "value": "Lamprocapnos spectabilis/bleeding heart"
                 },
                 {
-                    "value": "Lantana camara/big-sage",
-                    "expanded": ""
+                    "value": "Lantana camara/big-sage"
                 },
                 {
-                    "value": "Ligustrum/privet",
-                    "expanded": ""
+                    "value": "Ligustrum/privet"
                 },
                 {
-                    "value": "Lilium/lily",
-                    "expanded": ""
+                    "value": "Lilium/lily"
                 },
                 {
-                    "value": "Lolium temulentum/darnel",
-                    "expanded": ""
+                    "value": "Lolium temulentum/darnel"
                 },
                 {
-                    "value": "Lupinus/lupin",
-                    "expanded": ""
+                    "value": "Lupinus/lupin"
                 },
                 {
-                    "value": "Malus florentina/Florentine crabapple",
-                    "expanded": ""
+                    "value": "Malus florentina/Florentine crabapple"
                 },
                 {
-                    "value": "Mandragora officinarum/mandrake",
-                    "expanded": ""
+                    "value": "Mandragora officinarum/mandrake"
                 },
                 {
-                    "value": "Melia azedarach/Chinaberry tree",
-                    "expanded": ""
+                    "value": "Melia azedarach/Chinaberry tree"
                 },
                 {
-                    "value": "Melianthus major/honeybush",
-                    "expanded": ""
+                    "value": "Melianthus major/honeybush"
                 },
                 {
-                    "value": "Menispermum/moonseed",
-                    "expanded": ""
+                    "value": "Menispermum/moonseed"
                 },
                 {
-                    "value": "Mentha pulegium/pennyroyal",
-                    "expanded": ""
+                    "value": "Mentha pulegium/pennyroyal"
                 },
                 {
-                    "value": "Narcissus/daffodil",
-                    "expanded": ""
+                    "value": "Narcissus/daffodil"
                 },
                 {
-                    "value": "Nerium oleander/oleander",
-                    "expanded": ""
+                    "value": "Nerium oleander/oleander"
                 },
                 {
-                    "value": "Nicandra physalodes/apple-of-Peru",
-                    "expanded": ""
+                    "value": "Nicandra physalodes/apple-of-Peru"
                 },
                 {
-                    "value": "Nicotiana glauca/tree tobacco",
-                    "expanded": ""
+                    "value": "Nicotiana glauca/tree tobacco"
                 },
                 {
-                    "value": "Oenanthe crocata/hemlock water dropwort",
-                    "expanded": ""
+                    "value": "Oenanthe crocata/hemlock water dropwort"
                 },
                 {
-                    "value": "Paris quadrifolia/herb-paris",
-                    "expanded": ""
+                    "value": "Paris quadrifolia/herb-paris"
                 },
                 {
-                    "value": "Passiflora caerulea/blue passion flower",
-                    "expanded": ""
+                    "value": "Passiflora caerulea/blue passion flower"
                 },
                 {
-                    "value": "Peucedanum galbanum/blister bush",
-                    "expanded": ""
+                    "value": "Peucedanum galbanum/blister bush"
                 },
                 {
-                    "value": "Phoradendron/Viscum",
-                    "expanded": ""
+                    "value": "Phoradendron/Viscum"
                 },
                 {
-                    "value": "Physostigma venenosum/calabar beans",
-                    "expanded": ""
+                    "value": "Physostigma venenosum/calabar beans"
                 },
                 {
-                    "value": "Phytolacca/pokeweed",
-                    "expanded": ""
+                    "value": "Phytolacca/pokeweed"
                 },
                 {
-                    "value": "Pieris japonica/Japanese pieris",
-                    "expanded": ""
+                    "value": "Pieris japonica/Japanese pieris"
                 },
                 {
-                    "value": "Plumeria/frangipani",
-                    "expanded": ""
+                    "value": "Plumeria/frangipani"
                 },
                 {
-                    "value": "Podophyllum peltatum/mayapple",
-                    "expanded": ""
+                    "value": "Podophyllum peltatum/mayapple"
                 },
                 {
-                    "value": "Prunus laurocerasus/cherry laurel",
-                    "expanded": ""
+                    "value": "Prunus laurocerasus/cherry laurel"
                 },
                 {
-                    "value": "Prunus padus/bird cherry",
-                    "expanded": ""
+                    "value": "Prunus padus/bird cherry"
                 },
                 {
-                    "value": "Pteridium aquilinum/bracken",
-                    "expanded": ""
+                    "value": "Pteridium aquilinum/bracken"
                 },
                 {
-                    "value": "Pulsatilla cernua/pasque flower",
-                    "expanded": ""
+                    "value": "Pulsatilla cernua/pasque flower"
                 },
                 {
-                    "value": "Quercus/oak",
-                    "expanded": ""
+                    "value": "Quercus/oak"
                 },
                 {
-                    "value": "Rhamnus cathartica/buckthorn",
-                    "expanded": ""
+                    "value": "Rhamnus cathartica/buckthorn"
                 },
                 {
-                    "value": "Rhododendron/azalea",
-                    "expanded": ""
+                    "value": "Rhododendron/azalea"
                 },
                 {
-                    "value": "Rhododendron ferrugineum/alpenrose",
-                    "expanded": ""
+                    "value": "Rhododendron ferrugineum/alpenrose"
                 },
                 {
-                    "value": "Rhododendron luteum/yellow azalea",
-                    "expanded": ""
+                    "value": "Rhododendron luteum/yellow azalea"
                 },
                 {
-                    "value": "Rhododendron tomentosum/marsh Labrador tea",
-                    "expanded": ""
+                    "value": "Rhododendron tomentosum/marsh Labrador tea"
                 },
                 {
-                    "value": "Rhus/African sumac",
-                    "expanded": ""
+                    "value": "Rhus/African sumac"
                 },
                 {
-                    "value": "Ricinus communis/castor oil plant",
-                    "expanded": ""
+                    "value": "Ricinus communis/castor oil plant"
                 },
                 {
-                    "value": "Robinia/black locust",
-                    "expanded": ""
+                    "value": "Robinia/black locust"
                 },
                 {
-                    "value": "Sambucus/elder",
-                    "expanded": ""
+                    "value": "Sambucus/elder"
                 },
                 {
-                    "value": "Sanguinaria canadensis/bloodroot",
-                    "expanded": ""
+                    "value": "Sanguinaria canadensis/bloodroot"
                 },
                 {
-                    "value": "Scopolia carniolica/European scopolia",
-                    "expanded": ""
+                    "value": "Scopolia carniolica/European scopolia"
                 },
                 {
-                    "value": "Solanum dulcamara/bittersweet nightshade",
-                    "expanded": ""
+                    "value": "Solanum dulcamara/bittersweet nightshade"
                 },
                 {
-                    "value": "Solanum nigrum/black nightshade",
-                    "expanded": ""
+                    "value": "Solanum nigrum/black nightshade"
                 },
                 {
-                    "value": "Solanum pseudocapsicum/Jerusalem cherry",
-                    "expanded": ""
+                    "value": "Solanum pseudocapsicum/Jerusalem cherry"
                 },
                 {
-                    "value": "Sophora secundiflora/mescal bean",
-                    "expanded": ""
+                    "value": "Sophora secundiflora/mescal bean"
                 },
                 {
-                    "value": "Strophanthus gratus",
-                    "expanded": ""
+                    "value": "Strophanthus gratus"
                 },
                 {
-                    "value": "Strychnos nux-vomica/strychnine tree",
-                    "expanded": ""
+                    "value": "Strychnos nux-vomica/strychnine tree"
                 },
                 {
-                    "value": "Taxus baccata/English yew",
-                    "expanded": ""
+                    "value": "Taxus baccata/English yew"
                 },
                 {
-                    "value": "Toxicodendron/Toxicodendron radicans",
-                    "expanded": ""
+                    "value": "Toxicodendron/Toxicodendron radicans"
                 },
                 {
-                    "value": "Urtica ferox/ongaonga",
-                    "expanded": ""
+                    "value": "Urtica ferox/ongaonga"
                 },
                 {
-                    "value": "Veratrum/false hellebore",
-                    "expanded": ""
+                    "value": "Veratrum/false hellebore"
                 },
                 {
-                    "value": "Vernicia fordii/tung tree",
-                    "expanded": ""
+                    "value": "Vernicia fordii/tung tree"
                 },
                 {
-                    "value": "Viscum/Phoradendron",
-                    "expanded": ""
+                    "value": "Viscum/Phoradendron"
                 },
                 {
-                    "value": "Voacanga africana",
-                    "expanded": ""
+                    "value": "Voacanga africana"
                 },
                 {
-                    "value": "Wisteria sinensis/Chinese wisteria",
-                    "expanded": ""
+                    "value": "Wisteria sinensis/Chinese wisteria"
                 },
                 {
-                    "value": "Xanthium/cocklebur",
-                    "expanded": ""
+                    "value": "Xanthium/cocklebur"
                 },
                 {
-                    "value": "Zantedeschia aethiopica/calla lily",
-                    "expanded": ""
+                    "value": "Zantedeschia aethiopica/calla lily"
                 },
                 {
-                    "value": "Zigadenus glaberrimus/death camas",
-                    "expanded": ""
+                    "value": "Zigadenus glaberrimus/death camas"
                 }
             ],
-            "predicate1": "Poisonous fungus",
-            "entry1": [
+            "predicate": "Poisonous fungus",
+            "entry": [
                 {
-                    "value": "Agaricus californicus/California ",
-                    "expanded": ""
+                    "value": "Agaricus californicus/California "
                 },
                 {
-                    "value": "Agaricus hondensis/Felt-ringed ",
-                    "expanded": ""
+                    "value": "Agaricus hondensis/Felt-ringed "
                 },
                 {
-                    "value": "Agaricus menieri",
-                    "expanded": ""
+                    "value": "Agaricus menieri"
                 },
                 {
-                    "value": "Agaricus moelleri",
-                    "expanded": ""
+                    "value": "Agaricus moelleri"
                 },
                 {
-                    "value": "Agaricus phaeolepidotus",
-                    "expanded": ""
+                    "value": "Agaricus phaeolepidotus"
                 },
                 {
-                    "value": "Agaricus placomyces",
-                    "expanded": ""
+                    "value": "Agaricus placomyces"
                 },
                 {
-                    "value": "Agaricus xanthodermus/Yellow-staining mushroom",
-                    "expanded": ""
+                    "value": "Agaricus xanthodermus/Yellow-staining mushroom"
                 },
                 {
-                    "value": "Amanita abrupta/American abrupt-bulbed Lepidella",
-                    "expanded": ""
+                    "value": "Amanita abrupta/American abrupt-bulbed Lepidella"
                 },
                 {
-                    "value": "Amanita aprica/Sunshine amanita",
-                    "expanded": ""
+                    "value": "Amanita aprica/Sunshine amanita"
                 },
                 {
-                    "value": "Amanita boudieri/Boudier's lepidella",
-                    "expanded": ""
+                    "value": "Amanita boudieri/Boudier's lepidella"
                 },
                 {
-                    "value": "Amanita citrina",
-                    "expanded": ""
+                    "value": "Amanita citrina"
                 },
                 {
-                    "value": "Amanita cokeri/Coker's amanita",
-                    "expanded": ""
+                    "value": "Amanita cokeri/Coker's amanita"
                 },
                 {
-                    "value": "Amanita cothurnata/Booted amanita",
-                    "expanded": ""
+                    "value": "Amanita cothurnata/Booted amanita"
                 },
                 {
-                    "value": "Amanita echinocephala/European solitary amanita",
-                    "expanded": ""
+                    "value": "Amanita echinocephala/European solitary amanita"
                 },
                 {
-                    "value": "Amanita farinosa/Powdery Amanita",
-                    "expanded": ""
+                    "value": "Amanita farinosa/Powdery Amanita"
                 },
                 {
-                    "value": "Amanita flavorubescens",
-                    "expanded": ""
+                    "value": "Amanita flavorubescens"
                 },
                 {
-                    "value": "Amanita gemmata/Gemmed Amanita",
-                    "expanded": ""
+                    "value": "Amanita gemmata/Gemmed Amanita"
                 },
                 {
-                    "value": "Amanita gioiosa",
-                    "expanded": ""
+                    "value": "Amanita gioiosa"
                 },
                 {
-                    "value": "Amanita gracilior",
-                    "expanded": ""
+                    "value": "Amanita gracilior"
                 },
                 {
-                    "value": "Amanita heterochroma/Eucalyptus fly agaric",
-                    "expanded": ""
+                    "value": "Amanita heterochroma/Eucalyptus fly agaric"
                 },
                 {
-                    "value": "Amanita hongoi/Hongo's Amanita",
-                    "expanded": ""
+                    "value": "Amanita hongoi/Hongo's Amanita"
                 },
                 {
-                    "value": "Amanita ibotengutake/Japanese ringed-bulbed Amanita",
-                    "expanded": ""
+                    "value": "Amanita ibotengutake/Japanese ringed-bulbed Amanita"
                 },
                 {
-                    "value": "Amanita muscaria/Fly agaric",
-                    "expanded": ""
+                    "value": "Amanita muscaria/Fly agaric"
                 },
                 {
-                    "value": "Amanita neoovoidea/East Asian egg amidella",
-                    "expanded": ""
+                    "value": "Amanita neoovoidea/East Asian egg amidella"
                 },
                 {
-                    "value": "Amanita pantherina/Panther cap",
-                    "expanded": ""
+                    "value": "Amanita pantherina/Panther cap"
                 },
                 {
-                    "value": "Amanita porphyria/Grey veiled Amanita",
-                    "expanded": ""
+                    "value": "Amanita porphyria/Grey veiled Amanita"
                 },
                 {
-                    "value": "Amanita pseudoporphyria/Hongo's false death cap",
-                    "expanded": ""
+                    "value": "Amanita pseudoporphyria/Hongo's false death cap"
                 },
                 {
-                    "value": "Amanita pseudoregalis/False royal fly agaric",
-                    "expanded": ""
+                    "value": "Amanita pseudoregalis/False royal fly agaric"
                 },
                 {
-                    "value": "Amanita pseudorubescens/False blusher",
-                    "expanded": ""
+                    "value": "Amanita pseudorubescens/False blusher"
                 },
                 {
-                    "value": "Amanita regalis/Royal fly agaric",
-                    "expanded": ""
+                    "value": "Amanita regalis/Royal fly agaric"
                 },
                 {
-                    "value": "Amanita smithiana/Smith's Amanita",
-                    "expanded": ""
+                    "value": "Amanita smithiana/Smith's Amanita"
                 },
                 {
-                    "value": "Ampulloclitocybe clavipes/Club-footed clitocybe",
-                    "expanded": ""
+                    "value": "Ampulloclitocybe clavipes/Club-footed clitocybe"
                 },
                 {
-                    "value": "Chlorophyllum molybdites/Green-spored parasol",
-                    "expanded": ""
+                    "value": "Chlorophyllum molybdites/Green-spored parasol"
                 },
                 {
-                    "value": "Clitocybe cerussata",
-                    "expanded": ""
+                    "value": "Clitocybe cerussata"
                 },
                 {
-                    "value": "Clitocybe dealbata",
-                    "expanded": ""
+                    "value": "Clitocybe dealbata"
                 },
                 {
-                    "value": "Coprinopsis alopecia",
-                    "expanded": ""
+                    "value": "Coprinopsis alopecia"
                 },
                 {
-                    "value": "Coprinopsis atramentaria/Common ink cap",
-                    "expanded": ""
+                    "value": "Coprinopsis atramentaria/Common ink cap"
                 },
                 {
-                    "value": "Coprinopsis romagnesiana/Scaly ink cap",
-                    "expanded": ""
+                    "value": "Coprinopsis romagnesiana/Scaly ink cap"
                 },
                 {
-                    "value": "Cortinarius bolaris",
-                    "expanded": ""
+                    "value": "Cortinarius bolaris"
                 },
                 {
-                    "value": "Cortinarius callisteus",
-                    "expanded": ""
+                    "value": "Cortinarius callisteus"
                 },
                 {
-                    "value": "Cortinarius cinnabarinus",
-                    "expanded": ""
+                    "value": "Cortinarius cinnabarinus"
                 },
                 {
-                    "value": "Cortinarius cinnamomeofulvus",
-                    "expanded": ""
+                    "value": "Cortinarius cinnamomeofulvus"
                 },
                 {
-                    "value": "Cortinarius cinnamomeoluteus",
-                    "expanded": ""
+                    "value": "Cortinarius cinnamomeoluteus"
                 },
                 {
-                    "value": "Cortinarius cinnamomeus",
-                    "expanded": ""
+                    "value": "Cortinarius cinnamomeus"
                 },
                 {
-                    "value": "Cortinarius cruentus",
-                    "expanded": ""
+                    "value": "Cortinarius cruentus"
                 },
                 {
-                    "value": "Cortinarius gentilis",
-                    "expanded": ""
+                    "value": "Cortinarius gentilis"
                 },
                 {
-                    "value": "Cortinarius limonius",
-                    "expanded": ""
+                    "value": "Cortinarius limonius"
                 },
                 {
-                    "value": "Cortinarius malicorius",
-                    "expanded": ""
+                    "value": "Cortinarius malicorius"
                 },
                 {
-                    "value": "Cortinarius mirandus",
-                    "expanded": ""
+                    "value": "Cortinarius mirandus"
                 },
                 {
-                    "value": "Cortinarius palustris",
-                    "expanded": ""
+                    "value": "Cortinarius palustris"
                 },
                 {
-                    "value": "Cortinarius phoeniceus",
-                    "expanded": ""
+                    "value": "Cortinarius phoeniceus"
                 },
                 {
-                    "value": "Cortinarius rubicundulus",
-                    "expanded": ""
+                    "value": "Cortinarius rubicundulus"
                 },
                 {
-                    "value": "Cortinarius smithii/Smith's Cortinarius",
-                    "expanded": ""
+                    "value": "Cortinarius smithii/Smith's Cortinarius"
                 },
                 {
-                    "value": "Cudonia circinans",
-                    "expanded": ""
+                    "value": "Cudonia circinans"
                 },
                 {
-                    "value": "Gyromitra perlata/Pig's ears",
-                    "expanded": ""
+                    "value": "Gyromitra perlata/Pig's ears"
                 },
                 {
-                    "value": "Echinoderma asperum/Freckled dapperling",
-                    "expanded": ""
+                    "value": "Echinoderma asperum/Freckled dapperling"
                 },
                 {
-                    "value": "Echinoderma calcicola",
-                    "expanded": ""
+                    "value": "Echinoderma calcicola"
                 },
                 {
-                    "value": "Entoloma albidum",
-                    "expanded": ""
+                    "value": "Entoloma albidum"
                 },
                 {
-                    "value": "Entoloma rhodopolium/Wood pinkgill",
-                    "expanded": ""
+                    "value": "Entoloma rhodopolium/Wood pinkgill"
                 },
                 {
-                    "value": "Entoloma sinuatum/Livid Entoloma",
-                    "expanded": ""
+                    "value": "Entoloma sinuatum/Livid Entoloma"
                 },
                 {
-                    "value": "Hebeloma crustuliniforme/Poison pie",
-                    "expanded": ""
+                    "value": "Hebeloma crustuliniforme/Poison pie"
                 },
                 {
-                    "value": "Hebeloma sinapizans/Rough-stalked hebeloma",
-                    "expanded": ""
+                    "value": "Hebeloma sinapizans/Rough-stalked hebeloma"
                 },
                 {
-                    "value": "Helvella crispa/Elfin saddle",
-                    "expanded": ""
+                    "value": "Helvella crispa/Elfin saddle"
                 },
                 {
-                    "value": "Helvella dryophila/Oak-loving elfin saddle",
-                    "expanded": ""
+                    "value": "Helvella dryophila/Oak-loving elfin saddle"
                 },
                 {
-                    "value": "Helvella lactea",
-                    "expanded": ""
+                    "value": "Helvella lactea"
                 },
                 {
-                    "value": "Helvella lacunosa/Slate grey saddle",
-                    "expanded": ""
+                    "value": "Helvella lacunosa/Slate grey saddle"
                 },
                 {
-                    "value": "Helvella vespertina/Western black elfin saddle",
-                    "expanded": ""
+                    "value": "Helvella vespertina/Western black elfin saddle"
                 },
                 {
-                    "value": "Hapalopilus nidulans/Tender nesting polypore",
-                    "expanded": ""
+                    "value": "Hapalopilus nidulans/Tender nesting polypore"
                 },
                 {
-                    "value": "Hypholoma fasciculare/Sulphur tuft",
-                    "expanded": ""
+                    "value": "Hypholoma fasciculare/Sulphur tuft"
                 },
                 {
-                    "value": "Hypholoma lateritium/Brick cap",
-                    "expanded": ""
+                    "value": "Hypholoma lateritium/Brick cap"
                 },
                 {
-                    "value": "Hypholoma marginatum",
-                    "expanded": ""
+                    "value": "Hypholoma marginatum"
                 },
                 {
-                    "value": "Hypholoma radicosum",
-                    "expanded": ""
+                    "value": "Hypholoma radicosum"
                 },
                 {
-                    "value": "Imperator rhodopurpureus",
-                    "expanded": ""
+                    "value": "Imperator rhodopurpureus"
                 },
                 {
-                    "value": "Imperator torosus",
-                    "expanded": ""
+                    "value": "Imperator torosus"
                 },
                 {
-                    "value": "Inocybe fibrosa",
-                    "expanded": ""
+                    "value": "Inocybe fibrosa"
                 },
                 {
-                    "value": "Inocybe geophylla/Earthy inocybe",
-                    "expanded": ""
+                    "value": "Inocybe geophylla/Earthy inocybe"
                 },
                 {
-                    "value": "Inocybe hystrix",
-                    "expanded": ""
+                    "value": "Inocybe hystrix"
                 },
                 {
-                    "value": "Inocybe lacera/Torn fibercap",
-                    "expanded": ""
+                    "value": "Inocybe lacera/Torn fibercap"
                 },
                 {
-                    "value": "Inocybe lilacina",
-                    "expanded": ""
+                    "value": "Inocybe lilacina"
                 },
                 {
-                    "value": "Inocybe sublilacina",
-                    "expanded": ""
+                    "value": "Inocybe sublilacina"
                 },
                 {
-                    "value": "Inocybe rimosa",
-                    "expanded": ""
+                    "value": "Inocybe rimosa"
                 },
                 {
-                    "value": "Inocybe sambucina",
-                    "expanded": ""
+                    "value": "Inocybe sambucina"
                 },
                 {
-                    "value": "Lactarius torminosus/Woolly milkcap",
-                    "expanded": ""
+                    "value": "Lactarius torminosus/Woolly milkcap"
                 },
                 {
-                    "value": "Mycena diosma",
-                    "expanded": ""
+                    "value": "Mycena diosma"
                 },
                 {
-                    "value": "Mycena pura/Lilac bonnet",
-                    "expanded": ""
+                    "value": "Mycena pura/Lilac bonnet"
                 },
                 {
-                    "value": "Mycena rosea/Rosy bonnet",
-                    "expanded": ""
+                    "value": "Mycena rosea/Rosy bonnet"
                 },
                 {
-                    "value": "Neonothopanus nambi",
-                    "expanded": ""
+                    "value": "Neonothopanus nambi"
                 },
                 {
-                    "value": "Panaeolus cinctulus/banded mottlegill",
-                    "expanded": ""
+                    "value": "Panaeolus cinctulus/banded mottlegill"
                 },
                 {
-                    "value": "Psilocybe semilanceata/Liberty cap",
-                    "expanded": ""
+                    "value": "Psilocybe semilanceata/Liberty cap"
                 },
                 {
-                    "value": "Omphalotus illudens/Jack-O'lantern mushroom",
-                    "expanded": ""
+                    "value": "Omphalotus illudens/Jack-O'lantern mushroom"
                 },
                 {
-                    "value": "Omphalotus japonicus/Tsukiyotake",
-                    "expanded": ""
+                    "value": "Omphalotus japonicus/Tsukiyotake"
                 },
                 {
-                    "value": "Omphalotus nidiformis/Ghost fungus",
-                    "expanded": ""
+                    "value": "Omphalotus nidiformis/Ghost fungus"
                 },
                 {
-                    "value": "Omphalotus olearius/Jack-O'lantern mushroom",
-                    "expanded": ""
+                    "value": "Omphalotus olearius/Jack-O'lantern mushroom"
                 },
                 {
-                    "value": "Omphalotus olivascens/Western jack-o'-lantern mushroom",
-                    "expanded": ""
+                    "value": "Omphalotus olivascens/Western jack-o'-lantern mushroom"
                 },
                 {
-                    "value": "Paralepistopsis acromelalga",
-                    "expanded": ""
+                    "value": "Paralepistopsis acromelalga"
                 },
                 {
-                    "value": "Paralepistopsis amoenolens/Paralysis funnel",
-                    "expanded": ""
+                    "value": "Paralepistopsis amoenolens/Paralysis funnel"
                 },
                 {
-                    "value": "Pholiotina rugosa",
-                    "expanded": ""
+                    "value": "Pholiotina rugosa"
                 },
                 {
-                    "value": "Ramaria formosa/Beautiful clavaria",
-                    "expanded": ""
+                    "value": "Ramaria formosa/Beautiful clavaria"
                 },
                 {
-                    "value": "Ramaria neoformosa",
-                    "expanded": ""
+                    "value": "Ramaria neoformosa"
                 },
                 {
-                    "value": "Ramaria pallida",
-                    "expanded": ""
+                    "value": "Ramaria pallida"
                 },
                 {
-                    "value": "Rubroboletus legaliae/Le Gal's bolete",
-                    "expanded": ""
+                    "value": "Rubroboletus legaliae/Le Gal's bolete"
                 },
                 {
-                    "value": "Rubroboletus lupinus/Wolves bolete",
-                    "expanded": ""
+                    "value": "Rubroboletus lupinus/Wolves bolete"
                 },
                 {
-                    "value": "Rubroboletus pulcherrimus",
-                    "expanded": ""
+                    "value": "Rubroboletus pulcherrimus"
                 },
                 {
-                    "value": "Rubroboletus satanas/Satan's bolete",
-                    "expanded": ""
+                    "value": "Rubroboletus satanas/Satan's bolete"
                 },
                 {
-                    "value": "Russula emetica/The sickener",
-                    "expanded": ""
+                    "value": "Russula emetica/The sickener"
                 },
                 {
-                    "value": "Russula subnigricans",
-                    "expanded": ""
+                    "value": "Russula subnigricans"
                 },
                 {
-                    "value": "Sarcosphaera coronaria/Pink crown",
-                    "expanded": ""
+                    "value": "Sarcosphaera coronaria/Pink crown"
                 },
                 {
-                    "value": "Tricholoma equestre/Yellow knight",
-                    "expanded": ""
+                    "value": "Tricholoma equestre/Yellow knight"
                 },
                 {
-                    "value": "Tricholoma filamentosum",
-                    "expanded": ""
+                    "value": "Tricholoma filamentosum"
                 },
                 {
-                    "value": "Tricholoma pardinum/Tiger tricholoma",
-                    "expanded": ""
+                    "value": "Tricholoma pardinum/Tiger tricholoma"
                 },
                 {
-                    "value": "Tricholoma muscarium",
-                    "expanded": ""
+                    "value": "Tricholoma muscarium"
                 },
                 {
-                    "value": "Trogia venenata/Little white mushroom",
-                    "expanded": ""
+                    "value": "Trogia venenata/Little white mushroom"
                 },
                 {
-                    "value": "Turbinellus floccosus/Woolly false chanterelle",
-                    "expanded": ""
+                    "value": "Turbinellus floccosus/Woolly false chanterelle"
                 },
                 {
-                    "value": "Turbinellus kauffmanii",
-                    "expanded": ""
+                    "value": "Turbinellus kauffmanii"
                 },
                 {
-                    "value": "Agrocybe arenicola",
-                    "expanded": ""
+                    "value": "Agrocybe arenicola"
                 },
                 {
-                    "value": "Amanita albocreata/Ringless panther",
-                    "expanded": ""
+                    "value": "Amanita albocreata/Ringless panther"
                 },
                 {
-                    "value": "Amanita altipes/Yellow long-stem Amanita",
-                    "expanded": ""
+                    "value": "Amanita altipes/Yellow long-stem Amanita"
                 },
                 {
-                    "value": "Amanita breckonii",
-                    "expanded": ""
+                    "value": "Amanita breckonii"
                 },
                 {
-                    "value": "Amanita ceciliae/Snakeskin grisette",
-                    "expanded": ""
+                    "value": "Amanita ceciliae/Snakeskin grisette"
                 },
                 {
-                    "value": "Amanita eliae/Fries's Amanita",
-                    "expanded": ""
+                    "value": "Amanita eliae/Fries's Amanita"
                 },
                 {
-                    "value": "Amanita flavoconia/Yellow-dust Amanita",
-                    "expanded": ""
+                    "value": "Amanita flavoconia/Yellow-dust Amanita"
                 },
                 {
-                    "value": "Amanita frostiana/Frost's Amanita",
-                    "expanded": ""
+                    "value": "Amanita frostiana/Frost's Amanita"
                 },
                 {
-                    "value": "Amanita nehuta/Mahori dust Amanita",
-                    "expanded": ""
+                    "value": "Amanita nehuta/Mahori dust Amanita"
                 },
                 {
-                    "value": "Amanita parcivolvata",
-                    "expanded": ""
+                    "value": "Amanita parcivolvata"
                 },
                 {
-                    "value": "Amanita parvipantherina",
-                    "expanded": ""
+                    "value": "Amanita parvipantherina"
                 },
                 {
-                    "value": "Amanita petalinivolva",
-                    "expanded": ""
+                    "value": "Amanita petalinivolva"
                 },
                 {
-                    "value": "Amanita roseotincta",
-                    "expanded": ""
+                    "value": "Amanita roseotincta"
                 },
                 {
-                    "value": "Amanita rubrovolvata/Red volva Amanita",
-                    "expanded": ""
+                    "value": "Amanita rubrovolvata/Red volva Amanita"
                 },
                 {
-                    "value": "Amanita subfrostiana/False Frost's Amanita",
-                    "expanded": ""
+                    "value": "Amanita subfrostiana/False Frost's Amanita"
                 },
                 {
-                    "value": "Amanita velatipes",
-                    "expanded": ""
+                    "value": "Amanita velatipes"
                 },
                 {
-                    "value": "Amanita viscidolutea",
-                    "expanded": ""
+                    "value": "Amanita viscidolutea"
                 },
                 {
-                    "value": "Amanita wellsii/Wells's Amanita",
-                    "expanded": ""
+                    "value": "Amanita wellsii/Wells's Amanita"
                 },
                 {
-                    "value": "Amanita xanthocephala/Vermilion grisette",
-                    "expanded": ""
+                    "value": "Amanita xanthocephala/Vermilion grisette"
                 },
                 {
-                    "value": "Armillaria mellea/Honey fungus",
-                    "expanded": ""
+                    "value": "Armillaria mellea/Honey fungus"
                 },
                 {
-                    "value": "Calocera viscosa/Yellow stagshorn",
-                    "expanded": ""
+                    "value": "Calocera viscosa/Yellow stagshorn"
                 },
                 {
-                    "value": "Chlorophyllum brunneum/Shaggy parasol",
-                    "expanded": ""
+                    "value": "Chlorophyllum brunneum/Shaggy parasol"
                 },
                 {
-                    "value": "Choiromyces venosus",
-                    "expanded": ""
+                    "value": "Choiromyces venosus"
                 },
                 {
-                    "value": "Clitocybe fragrans",
-                    "expanded": ""
+                    "value": "Clitocybe fragrans"
                 },
                 {
-                    "value": "Clitocybe nebularis/Clouded agaric",
-                    "expanded": ""
+                    "value": "Clitocybe nebularis/Clouded agaric"
                 },
                 {
-                    "value": "Conocybe subovalis",
-                    "expanded": ""
+                    "value": "Conocybe subovalis"
                 },
                 {
-                    "value": "Coprinellus micaceus/Mica cap",
-                    "expanded": ""
+                    "value": "Coprinellus micaceus/Mica cap"
                 },
                 {
-                    "value": "Lactarius chrysorrheus/Yellowdrop milkcap",
-                    "expanded": ""
+                    "value": "Lactarius chrysorrheus/Yellowdrop milkcap"
                 },
                 {
-                    "value": "Lactarius helvus/Fenugreek milkcap",
-                    "expanded": ""
+                    "value": "Lactarius helvus/Fenugreek milkcap"
                 },
                 {
-                    "value": "Lepiota cristata/Stinking dapperling",
-                    "expanded": ""
+                    "value": "Lepiota cristata/Stinking dapperling"
                 },
                 {
-                    "value": "Marasmius collinus",
-                    "expanded": ""
+                    "value": "Marasmius collinus"
                 },
                 {
-                    "value": "Russula olivacea",
-                    "expanded": ""
+                    "value": "Russula olivacea"
                 },
                 {
-                    "value": "Russula viscida",
-                    "expanded": ""
+                    "value": "Russula viscida"
                 },
                 {
-                    "value": "Schizophyllum commune",
-                    "expanded": ""
+                    "value": "Schizophyllum commune"
                 },
                 {
-                    "value": "Scleroderma citrinum/common earthball",
-                    "expanded": ""
+                    "value": "Scleroderma citrinum/common earthball"
                 },
                 {
-                    "value": "Stropharia aeruginosa/Verdigris agaric",
-                    "expanded": ""
+                    "value": "Stropharia aeruginosa/Verdigris agaric"
                 },
                 {
-                    "value": "Suillus granulatus/Weeping bolete",
-                    "expanded": ""
+                    "value": "Suillus granulatus/Weeping bolete"
                 },
                 {
-                    "value": "Tricholoma sulphureum/Gas agaric",
-                    "expanded": ""
+                    "value": "Tricholoma sulphureum/Gas agaric"
                 }
             ]
         }
